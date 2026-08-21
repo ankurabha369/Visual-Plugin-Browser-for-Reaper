@@ -1,4 +1,5 @@
-<img width="399" height="266" alt="image" src="https://github.com/user-attachments/assets/736a79a1-24d4-4426-bed2-98b26744ed18" />
+<img  src="https://github.com/user-attachments/assets/736a79a1-24d4-4426-bed2-98b26744ed18" alt="REAPER Logo">
+
 
 <br>
 <img width="1371" height="984" alt="Screenshot 2026-08-22 015458" src="https://github.com/user-attachments/assets/77722d13-f8cf-49a8-bff3-f8350c00ccf9" />
