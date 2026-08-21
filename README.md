@@ -1,3 +1,6 @@
+
+<img width="1371" height="984" alt="Screenshot 2026-08-22 015458" src="https://github.com/user-attachments/assets/77722d13-f8cf-49a8-bff3-f8350c00ccf9" />
+
 # Visual-Plugin-Browser-for-Reaper
 
 My Visual Plugin Browser — README
