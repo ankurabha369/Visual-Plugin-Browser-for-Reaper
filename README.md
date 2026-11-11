@@ -2,7 +2,9 @@
 
 
 <br>
-<img width="1365" height="998" alt="image" src="https://github.com/user-attachments/assets/55581c9e-f062-4843-b799-a0359258d192" />
+
+<img width="1338" height="891" alt="image" src="https://github.com/user-attachments/assets/45abbffe-c22c-4007-aba9-c83959f9ea72" />
+
 
 
 # Visual Plugin Browser for REAPER (v1.1.0)
